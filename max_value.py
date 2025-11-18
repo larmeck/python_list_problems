@@ -18,7 +18,7 @@ print(list_random_numbers)
 
 
 #sorting the list_random numbers
-list_random_numbers.sort()
+list_random_numbers.sort()  # can we please do it without using a sort operation? Sort operation is O(n log(n)) which is expensive
 print(list_random_numbers)
 
 #getting the largest number (last item in the sorted list)
