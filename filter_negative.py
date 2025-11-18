@@ -4,7 +4,7 @@
 Iterate through the list and build a new list containing only the numbers greater than or equal to zero.
 '''
 #declaring a list with negative and positive numbers
-my_list=[-45,8,6,-3,-81,100,46,-66,38,41]
+my_list=[-45,8,6,-3,-81,100,46,-66,38,41]  # can we generate a list using random that contains -ve numbers as well :)
 
 list_non_negative =[]
 
